@@ -1,4 +1,5 @@
 # Travel.
+Адаптивная вёрстка.
 
 Ссылка: [travel](https://InInferno.github.io/travel/ "Путешествия по России")
 
